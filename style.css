@@ -1,11 +1,19 @@
-<style>
-        
-        body{
-            background-color: yellow;
-        }
+body{
+    background-color: #DFDFDF;
+}
 
-        h1{
-            color: purple;
-        }
+h1{
+    color: #784B6A;
+}
 
-</style>
+h2, h3, h4, h5 {
+    color: #161616;
+}
+
+.lista{
+    background-color: #BD93B0;
+}
+
+.foto{
+    width: 250px;
+}
