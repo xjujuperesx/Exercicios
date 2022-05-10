@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(#E7CB8C, #DFDFDF);
+    background: linear-gradient(#DFDFDF, #E7CB8C);
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -16,11 +16,12 @@ h2, h3, h4, h5 {
 .lista{
     background-color: #BD93B0;  
     text-align: center;
+    border: 1px solid #161616
 }
 
 .foto{
     width: 250px;
-
+    /colocar no centro
 }
 
 .centro{
@@ -30,4 +31,12 @@ h2, h3, h4, h5 {
 
 .corlistahab{
     color: #161616;
+    }
+
+.centralizacao{
+    width: 40%;
+}
+
+li:hover{
+    background-color: BD93B0;
     }
