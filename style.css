@@ -1,9 +1,11 @@
 body{
-    background-color: #DFDFDF;
+    background: linear-gradient(#E7CB8C, #DFDFDF);
 }
 
 h1{
     color: #784B6A;
+    font-style: italic;
+    text-align: center;
 }
 
 h2, h3, h4, h5 {
@@ -11,9 +13,16 @@ h2, h3, h4, h5 {
 }
 
 .lista{
-    background-color: #BD93B0;
+    background-color: #BD93B0;  
+    text-align: center;
 }
 
 .foto{
     width: 250px;
+
 }
+
+.centro{
+    text-align: center;
+}
+
